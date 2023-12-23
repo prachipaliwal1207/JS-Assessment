@@ -1,0 +1,59 @@
+.bg0 {
+    background: lightblue;
+    padding: 12px;
+    margin-top: 31px;
+}
+
+.bg1 {
+    background: pink;
+    padding: 12px;
+}
+
+.bg2 {
+    background: thistle;
+    padding: 12px;
+}
+
+.main {
+    background-color: whitesmoke;
+    width: 60%;
+    height: 100%;
+    margin-left: 21%;
+    margin-top: 4%;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.main .task {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+textarea,
+button {
+    padding: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold;
+}
+
+.concatBtn {
+    margin-bottom: 22px;
+}
+
+textarea:hover{
+   background-color: whitesmoke;
+}
+button:hover{
+    background-color: rgb(42, 106, 128); 
+    color: white;
+}

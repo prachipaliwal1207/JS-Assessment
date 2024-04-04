@@ -1,7 +1,8 @@
 Data Manipulation Task Automation 📊 <br>
-Welcome to the Data Manipulation Task Automation project! This project aims to automate various data manipulation tasks to improve efficiency and productivity.
 
-Overview ℹ️
+Welcome to the Data Manipulation Task Automation project! This project aims to automate various data manipulation tasks to improve efficiency and productivity.
+ 
+Overview ℹ️  <br>
 This project includes scripts and tools designed to handle tasks such as:
 
 * Data cleaning
@@ -9,13 +10,13 @@ This project includes scripts and tools designed to handle tasks such as:
 * Data aggregation
 * Data visualization
 
-Features ✨
+Features ✨ 
 * Automated data cleaning process using custom scripts.
 * Streamlined data transformation workflows for different formats.
 * Efficient data aggregation techniques to handle large datasets.
 * Interactive data visualization tools for better insights.
 
-Getting Started 🚀
+Getting Started 🚀 <br>
 Embark on your journey with this project by following these simple steps:
 
 * Clone the Repository: Clone this repository to your local machine.
